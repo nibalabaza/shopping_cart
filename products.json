@@ -1,0 +1,65 @@
+[{
+    "idProduis": "1",
+    "img": "css/images/girls-princess-jazz-modern-dance-rainbow-dresses-kids-chorus-show-performance-dress-w02564-800x800.jpg" ,
+    "name": "Dress1",
+    "price": 50,
+    "inCart": 0
+},
+{
+    "idProduis": "2",
+    "img": "css/images/764069.jpg",
+    "name": "Dress2",
+    "price": 60,
+    "inCart": 0
+},
+{
+    "idProduis": "3",
+    "img": "css/images/774580.jpg",
+    "name": "Dress3",
+    "price": 70,
+    "inCart": 0
+},
+{
+    "idProduis": "4",
+    "img": "css/images/Suri1__73478.1527591523.jpg",
+    "name": "Dress4",
+    "price": 85,
+    "inCart": 0
+},
+{
+    "idProduis": "5",
+    "img": "css/images/alyssa5_1024x1024.jpg",
+    "name": "Dress5",
+    "price": 46,
+    "inCart": 0
+},
+{
+    "idProduis": "6",
+    "img": "css/images/ece7da3a1b53a029a005592db401e2f1.jpg",
+    "name": "Dress6",
+    "price": 44,
+    "inCart": 0
+},
+{
+    "idProduis": "7",
+    "img": "css/images/images.jpeg",
+    "name": "Dress7",
+    "price": 44,
+    "inCart": 0
+},
+{
+    "idProduis": "8",
+    "img": "css/images/kids-girls-pink-sleeveless-dress-500x500.jpg",
+    "name": "Dress8",
+    "price": 44,
+    "inCart": 0
+},
+{
+    "idProduis": "9",
+    "img": "css/images/girls-cotton-frock-500x500.jpg",
+    "name": "Dress9",
+    "price": 44,
+    "inCart": 0
+}
+]
+
